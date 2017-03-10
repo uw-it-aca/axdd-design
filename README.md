@@ -1,2 +1,2 @@
 # axdd-design
-A page for AXDD design team.
+A page for the AXDD design team.
