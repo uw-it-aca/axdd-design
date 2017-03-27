@@ -4,6 +4,7 @@ import Section from './components/Section';
 import Container from './components/Container';
 import H2 from './components/H2';
 import P from './components/P';
+import A from './components/A';
 
 class App extends Component {
     render() {
@@ -22,7 +23,7 @@ class App extends Component {
                     <Container>
                         <H2>Thoughts on Design</H2>
                         <P>
-                            Follow our UX@UW Blog on Medium to learn how we work and think about design. There you can find our collection of case studies, guides, tips, and presentations.
+                            Follow our <A href="www.google.com">UX@UW Blog on Medium</A> to learn how we work and think about design. There you can find our collection of case studies, guides, tips, and presentations.
                         </P>
                         <P>
                             UX@UW’s contributors are design professionals from different units. If you are a design professional from the UW community and would like to contribute to the blog, please shoot us a line at ux@uw.edu. We always welcome new contributors!

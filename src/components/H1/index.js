@@ -6,6 +6,7 @@ const H1 = styled.h1`
     line-height: 1.25;
     max-width: 40rem;
     margin: 0 auto;
+    text-align: center;
 `;
 
 export default H1;

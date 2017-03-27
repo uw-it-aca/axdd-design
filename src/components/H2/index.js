@@ -8,6 +8,7 @@ const H2 = styled.h2`
     margin-top: 0;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
 `;
 
 export default H2;
