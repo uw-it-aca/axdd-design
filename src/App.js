@@ -6,7 +6,7 @@ class App extends Component {
     render() {
         return (
             <div>
-                <Header />
+                <Header title="Promoting the importance of User Experience (UX) Design in the creation of tools, applications, and services at the University of Washington" />
                 <P>
                     Testing 123
                 </P>
