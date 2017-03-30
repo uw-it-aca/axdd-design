@@ -5,6 +5,7 @@ import Container from './components/Container';
 import H2 from './components/H2';
 import P from './components/P';
 import A from './components/A';
+import './global-styles';
 
 class App extends Component {
     render() {
